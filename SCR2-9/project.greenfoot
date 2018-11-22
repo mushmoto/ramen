@@ -1,7 +1,7 @@
 #Greenfoot project file
 =\=\=\=\=\=\=
 <<<<<<<=HEAD
->>>>>>>=8e6569fe6626085c938a1292bb521c69b443eff0
+>>>>>>>=14dd79cfb8ea2cdba4540342318bbe61213a1f87
 class.Masatoshi.image=person.png
 class.Masatoshi.superclass=greenfoot.Actor
 class.MyWorld.image=bluerock.jpg
@@ -13,15 +13,9 @@ class.kumachan.superclass=greenfoot.Actor
 class.ppap.image=apple1.png
 class.ppap.superclass=greenfoot.Actor
 mainWindow.height=546
-<<<<<<< HEAD
-mainWindow.width=836
-mainWindow.x=920
-mainWindow.y=200
-=======
 mainWindow.width=791
 mainWindow.x=102
-mainWindow.y=187
->>>>>>> 0eb883a229b3c4e6423ba3881c7ffc4ef6a94f61
+mainWindow.y=243
 package.numDependencies=0
 package.numTargets=5
 project.charset=UTF-8
@@ -39,15 +33,9 @@ target1.width=80
 target1.x=70
 target1.y=70
 target2.editor.height=700
-<<<<<<< HEAD
-target2.editor.width=900
-target2.editor.x=725
-target2.editor.y=174
-=======
 target2.editor.width=793
 target2.editor.x=371
-target2.editor.y=52
->>>>>>> 0eb883a229b3c4e6423ba3881c7ffc4ef6a94f61
+target2.editor.y=80
 target2.height=50
 target2.name=Masatoshi
 target2.naviview.expanded=true
