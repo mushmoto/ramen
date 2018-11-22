@@ -14,8 +14,13 @@ public class Masatoshi extends Actor
      */
     public void act() 
     {
+<<<<<<< HEAD
         if(Greenfoot.isKeyDown("right")){
             setRotation(0);
+=======
+        if( Greenfoot.isKeyDown( "up" ) ){
+            setRotation(270);
+>>>>>>> 0eb883a229b3c4e6423ba3881c7ffc4ef6a94f61
             move(2);
         }
     }    

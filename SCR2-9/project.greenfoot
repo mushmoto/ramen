@@ -13,14 +13,25 @@ class.kumachan.superclass=greenfoot.Actor
 class.ppap.image=apple1.png
 class.ppap.superclass=greenfoot.Actor
 mainWindow.height=546
+<<<<<<< HEAD
 mainWindow.width=836
 mainWindow.x=630
 mainWindow.y=262
+=======
+mainWindow.width=791
+mainWindow.x=102
+mainWindow.y=187
+>>>>>>> 0eb883a229b3c4e6423ba3881c7ffc4ef6a94f61
 package.numDependencies=0
 package.numTargets=5
 project.charset=UTF-8
+target1.editor.height=700
+target1.editor.width=900
+target1.editor.x=105
+target1.editor.y=72
 target1.height=50
 target1.name=kani
+target1.naviview.expanded=true
 target1.showInterface=false
 target1.type=ClassTarget
 target1.typeParameters=
@@ -28,9 +39,15 @@ target1.width=80
 target1.x=70
 target1.y=70
 target2.editor.height=700
+<<<<<<< HEAD
 target2.editor.width=900
 target2.editor.x=784
 target2.editor.y=99
+=======
+target2.editor.width=793
+target2.editor.x=371
+target2.editor.y=52
+>>>>>>> 0eb883a229b3c4e6423ba3881c7ffc4ef6a94f61
 target2.height=50
 target2.name=Masatoshi
 target2.naviview.expanded=true
