@@ -1,17 +1,28 @@
 #Greenfoot project file
+class.Masatoshi.image=person.png
+class.Masatoshi.superclass=greenfoot.Actor
 class.MyWorld.image=bluerock.jpg
 class.MyWorld.superclass=greenfoot.World
 class.kumachan.image=teddybear.png
 class.kumachan.superclass=greenfoot.Actor
 mainWindow.height=546
 mainWindow.width=836
+<<<<<<< HEAD
 mainWindow.x=913
 mainWindow.y=478
+=======
+mainWindow.x=75
+mainWindow.y=96
+>>>>>>> a5b6473f2f8942a243ea28959811e9645b9fe181
 package.numDependencies=0
 package.numTargets=2
 project.charset=UTF-8
 target1.height=50
+<<<<<<< HEAD
 target1.name=kumachan
+=======
+target1.name=Masatoshi
+>>>>>>> a5b6473f2f8942a243ea28959811e9645b9fe181
 target1.showInterface=false
 target1.type=ClassTarget
 target1.typeParameters=
