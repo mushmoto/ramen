@@ -10,3 +10,5 @@ make a ramen.
  ---
 
 [fox](zao-fox-village.com)
+
+https://tmytokai.github.io/open-ed/activity/ood-basic/
